@@ -97,8 +97,7 @@ experience:
       * Development of software to perform monitoring, control, and verification of the processes and activities that environmental employees should complete as part of the Environmental Handling Plan. 
       * Implementation of a content manager to handle the documentation associated with each completed activity.
     Tech stack - Oracle Forms, Oracle database, Java, Alfresco (Content Management platform).
-    
-    
+     
 design:
   columns: '2'
 ---
