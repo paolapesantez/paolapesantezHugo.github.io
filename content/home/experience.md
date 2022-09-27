@@ -59,10 +59,7 @@ experience:
     date_end: '2021-08-06'
     description: |2- 
     Development of risk and control mitigation measures in legacy code for an American online retailer of prescription glasses and sunglasses based in NY city. 
-    Tech stack included:  
-       * Python
-       * JavaScript
-       * Postgresql
+    Tech stack - Python, JavaScript, Postgresql
 
 - title: Associate Professor	
     company: Universidad de Cuenca
@@ -85,11 +82,7 @@ experience:
     date_end: '2015-08-14'
     description: |2- 
     Development of automated knowledge graph and natural language processing (relation extraction, entity disambiguation) from Twitter.
-    Tech stack included: 
-      * Scala
-      * Perl
-      * R
-      * Python
+    Tech stack - Scala, Perl, R, Python
     
  - title: Software Developer			
     company: ITSDP, Department of Surgery of Virginia Commonwealth University and COBUS
@@ -100,7 +93,7 @@ experience:
     date_end: '2009-04-01'
     description: |2- 
     Development of an online/offline Trauma Registry System. It supported multiple languages.
-    Tech stack:  .NET, SQL.
+    Tech stack - .NET, SQL.
     
  - title: Software Developer			
     company: Electro Generadora del Austro S.A.
@@ -112,11 +105,9 @@ experience:
     description: |2-
     * Development of software to perform monitoring, control, and verification of the processes and activities that environmental employees should complete as part of the Environmental Handling Plan. 
     * Implementation of a content manager to handle the documentation associated with each completed activity.
-    Tech stack: 
-    Oracle Forms, Oracle database, Java, Alfresco (Content Management platform).
+    Tech stack - Oracle Forms, Oracle database, Java, Alfresco (Content Management platform).
     
-
-
+    
 design:
   columns: '2'
 ---
