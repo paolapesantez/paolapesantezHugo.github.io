@@ -11,7 +11,7 @@ role: Research Assistant Professor
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Washington State University - AgAID Institute
-    url: [agaid.org](https://agaid.org/)
+    url: https://agaid.org/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My name is Paola. I am Ecuadorian and I have a Ph.D. in Computer Science. I think of myself as persevering, motivated, enthusiastic, eager, and passionate to learn about science and technology that has a direct impact on preserving the world for future generations. 
