@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Research Assistant Professor
+- title: Research Assistant Professor
     company: Washington State University
     company_url: ''
     company_logo: WSU
@@ -36,7 +36,7 @@ experience:
         <!--* Modelling-->
         <!--* Deploying-->
         
- - title: Researcher - Data Manager
+- title: Researcher - Data Manager
     company: AgAID Institute at Washington State University
     company_url: https://agaid.org
     company_logo: AgAID_Icon
@@ -64,7 +64,7 @@ experience:
        * JavaScript
        * Postgresql
 
-  - title: Associate Professor	
+- title: Associate Professor	
     company: Universidad de Cuenca
     company_url: ''
     company_logo: UniversidadCuenca
@@ -72,11 +72,11 @@ experience:
     date_start: '2009-10-01'
     date_end: '2020-08-31'
     description: |2-
-   * Teacher of different subjects such as programming (data structures), differential calculus, discrete mathematics, graph theory, introduction to computer technology, and basic computer concepts in the Schools of Computer Science, Civil Engineering, and Telecommunications. 
-   * Contributor of several research projects in different areas such as using Learning Analytics to improve Higher Education in Latin America, designing Architectures and Interaction Models for Assisted Living Environments aimed at elderly people, Active Mobility and Urban Environment, and using Intelligent Assistants for Spatial Data Infrastructures. 
-   * Coordinator of social volunteer projects within the computer science career. Extensive experience in managing them and formulating collaboration agreements with institutions. Leader of the project “Knowledge Generation in Information and Communication Technologies” with the aim of expanding employment opportunities, entrepreneurship, and educational reintegration, favoring personal, social, and educational growth of children and adolescents. Participation in the project “Schools as healthy spaces: promotion of healthy practices” through the analysis and design of an application whose main objective was to motivate a nutritious diet and physical activity in children and adolescents.
+    * Teacher of different subjects such as programming (data structures), differential calculus, discrete mathematics, graph theory, introduction to computer technology, and basic computer concepts in the Schools of Computer Science, Civil Engineering, and Telecommunications. 
+    * Contributor of several research projects in different areas such as using Learning Analytics to improve Higher Education in Latin America, designing Architectures and Interaction Models for Assisted Living Environments aimed at elderly people, Active Mobility and Urban Environment, and using Intelligent Assistants for Spatial Data Infrastructures. 
+    * Coordinator of social volunteer projects within the computer science career. Extensive experience in managing them and formulating collaboration agreements with institutions. Leader of the project “Knowledge Generation in Information and Communication Technologies” with the aim of expanding employment opportunities, entrepreneurship, and educational reintegration, favoring personal, social, and educational growth of children and adolescents. Participation in the project “Schools as healthy spaces: promotion of healthy practices” through the analysis and design of an application whose main objective was to motivate a nutritious diet and physical activity in children and adolescents.
 
-- title: PhD Data Science Intern	
+ - title: PhD Data Science Intern	
     company: Pacific Northwest National Laboratory
     company_url: ''
     company_logo: PNNL
@@ -91,7 +91,7 @@ experience:
       * R
       * Python
     
-- title: Software Developer			
+ - title: Software Developer			
     company: ITSDP, Department of Surgery of Virginia Commonwealth University and COBUS
     company_url: ''
     company_logo: COBUSBPM
@@ -102,7 +102,7 @@ experience:
     Development of an online/offline Trauma Registry System. It supported multiple languages.
     Tech stack:  .NET, SQL.
     
-- title: Software Developer			
+ - title: Software Developer			
     company: Electro Generadora del Austro S.A.
     company_url: ''
     company_logo: Elecaustro
