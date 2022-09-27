@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-- title: Research Assistant Professor
+  - title: Research Assistant Professor
     company: Washington State University
     company_url: ''
     company_logo: WSU
@@ -32,7 +32,7 @@ experience:
     description: |2-
        
         
-- title: Researcher - Data Manager
+  - title: Researcher - Data Manager
     company: AgAID Institute at Washington State University
     company_url: https://agaid.org
     company_logo: AgAID_Icon
@@ -41,7 +41,7 @@ experience:
     date_end: '2021-08-06'
     description: |2-
        
-- title: Software Engineer	
+  - title: Software Engineer	
     company: IOET Inc.
     company_url: ''
     company_logo: ioet
@@ -52,7 +52,7 @@ experience:
     Development of risk and control mitigation measures in legacy code for an American online retailer of prescription glasses and sunglasses based in NY city. 
     Tech stack - Python, JavaScript, Postgresql
 
-- title: Associate Professor	
+  - title: Associate Professor	
     company: Universidad de Cuenca
     company_url: ''
     company_logo: UniversidadCuenca
@@ -64,7 +64,7 @@ experience:
     * Contributor of several research projects in different areas such as using Learning Analytics to improve Higher Education in Latin America, designing Architectures and Interaction Models for Assisted Living Environments aimed at elderly people, Active Mobility and Urban Environment, and using Intelligent Assistants for Spatial Data Infrastructures. 
     * Coordinator of social volunteer projects within the computer science career. Extensive experience in managing them and formulating collaboration agreements with institutions. Leader of the project “Knowledge Generation in Information and Communication Technologies” with the aim of expanding employment opportunities, entrepreneurship, and educational reintegration, favoring personal, social, and educational growth of children and adolescents. Participation in the project “Schools as healthy spaces: promotion of healthy practices” through the analysis and design of an application whose main objective was to motivate a nutritious diet and physical activity in children and adolescents.
 
-- title: PhD Data Science Intern	
+  - title: PhD Data Science Intern	
     company: Pacific Northwest National Laboratory
     company_url: ''
     company_logo: PNNL
@@ -75,7 +75,7 @@ experience:
     Development of automated knowledge graph and natural language processing (relation extraction, entity disambiguation) from Twitter.
     Tech stack - Scala, Perl, R, Python
     
-- title: Software Developer			
+  - title: Software Developer			
     company: ITSDP, Department of Surgery of Virginia Commonwealth University and COBUS
     company_url: ''
     company_logo: COBUSBPM
@@ -86,7 +86,7 @@ experience:
     Development of an online/offline Trauma Registry System. It supported multiple languages.
     Tech stack - .NET, SQL.
     
-- title: Software Developer			
+  - title: Software Developer			
     company: Electro Generadora del Austro S.A.
     company_url: ''
     company_logo: Elecaustro
