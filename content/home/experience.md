@@ -57,7 +57,8 @@ experience:
     location: Quito, Ecuador
     date_start: '2021-06-01'
     date_end: '2021-08-06'
-    description: |2- Development of risk and control mitigation measures in legacy code for an American online retailer of prescription glasses and sunglasses based in NY city.
+    description: |2- 
+    Development of risk and control mitigation measures in legacy code for an American online retailer of prescription glasses and sunglasses based in NY city. 
     Tech stack included:  
        * Python
        * JavaScript
@@ -82,7 +83,8 @@ experience:
     location: Richland, Washington
     date_start: '2015-05-26'
     date_end: '2015-08-14'
-    description: |2- Development of automated knowledge graph and natural language processing (relation extraction, entity disambiguation) from Twitter.
+    description: |2- 
+    Development of automated knowledge graph and natural language processing (relation extraction, entity disambiguation) from Twitter.
     Tech stack included: 
       * Scala
       * Perl
@@ -96,7 +98,8 @@ experience:
     location: Quito, Ecuador
     date_start: '2009-02-01'
     date_end: '2009-04-01'
-    description: |2- Development of an online/offline Trauma Registry System. It supported multiple languages.
+    description: |2- 
+    Development of an online/offline Trauma Registry System. It supported multiple languages.
     Tech stack:  .NET, SQL.
     
 - title: Software Developer			
