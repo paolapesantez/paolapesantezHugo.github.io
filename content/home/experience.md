@@ -25,7 +25,7 @@ experience:
   - title: Research Assistant Professor
     company: Washington State University
     company_url: ''
-    company_logo: WSU
+    company_logo: WSU.png
     location: Pullman, Washington
     date_start: '2022-08-31'
     date_end: ''
@@ -35,7 +35,7 @@ experience:
   - title: Researcher - Data Manager
     company: AgAID Institute at Washington State University
     company_url: https://agaid.org
-    company_logo: AgAID_Icon
+    company_logo: AgAID_Icon.png
     location: Pullman, Washington
     date_start: '2021-09-16'
     date_end: '2021-08-06'
