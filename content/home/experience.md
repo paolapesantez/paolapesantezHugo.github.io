@@ -38,13 +38,13 @@ experience:
     company_logo: AgAID_Icon
     location: Pullman, Washington
     date_start: '2021-09-16'
-    date_end: '2021-08-06'
+    date_end: ''
     description: |2-
        
   - title: Software Engineer	
     company: IOET Inc.
     company_url: ''
-    company_logo: IOET
+    company_logo: Ioet
     location: Quito, Ecuador
     date_start: '2021-06-01'
     date_end: '2021-08-06'
