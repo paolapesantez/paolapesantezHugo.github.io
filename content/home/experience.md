@@ -44,7 +44,7 @@ experience:
   - title: Software Engineer	
     company: IOET Inc.
     company_url: ''
-    company_logo: ioet
+    company_logo: IOET
     location: Quito, Ecuador
     date_start: '2021-06-01'
     date_end: '2021-08-06'
